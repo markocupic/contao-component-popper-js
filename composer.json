@@ -1,0 +1,11 @@
+{
+    "name": "markocupic/contao-component-popper-js",
+    "type": "contao-component",
+    "license": "LGPL-3.0-or-later",
+    "require": {
+        "contao-components/installer": "^1.0"
+    },
+    "extra": {
+        "contao-component-dir": "assets"
+    }
+}
